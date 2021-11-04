@@ -31,7 +31,7 @@ Since then, I have been studding data science and classic machine learning algor
 
 ## Data Science Projects
 
-* ### [Rossman Store Sales](https://github.com/kaotcs/rossmann_ds)
+* ### [Rossman Store Sales](https://github.com/kaotcs/rossmann_sales_prediction)
 
     Sales projection for a retail chain to predict the total amount of sales for the next 6 weeks. This analyzes is crucial, since the retail chain seeks to analyze its expantion and the performance of currently stores portfolio.
 
