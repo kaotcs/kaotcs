@@ -11,7 +11,7 @@
 
 <br>
 
-I'm a civil engineer and a data scientist who loves data and everything related to it. I have a previous background with project management and real estate projects. 
+I'm a civil engineer and a data scientist who loves data and everything related to it. I have a previous background with project management related to real estate.
 
 Since then, I have been studding data science and classic machine learning algorithms. Therefore, I have been developing data science projects focused in business solutions with machine learning models.
 
