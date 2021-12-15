@@ -48,4 +48,4 @@ Since then, I have been studding data science and classic machine learning algor
 
     Clustering the database to discover a profile of customers which have a good revenue in the store.
 
-
+UPDATE: 14/12/21
