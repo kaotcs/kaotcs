@@ -17,7 +17,7 @@ Since then, I have been studding data science and classic machine learning algor
 
 ### Analytics Tools
 
-* **Data Collection and Storage:** SQL.
+* **Data Collection and Storage:** SQL (PostgreSQL and MySQL).
 
 * **Data Processing and Analytics:** Python and Jupyter.
 
@@ -27,13 +27,17 @@ Since then, I have been studding data science and classic machine learning algor
 
 * **Machine Learning Modeling:** Classification, Regression and Clustering
 
-* **Machine Learning Deployment:** Flask and Heroku.
+* **Machine Learning Deployment:** Flask, Heroku and AWS(RDS, EC2 and S3).
 
 ## Data Science Projects
 
 * ### [Rossman Store Sales](https://github.com/kaotcs/rossmann_sales_prediction)
 
     Sales projection for a retail chain to predict the total amount of sales for the next 6 weeks. This analyzes is crucial, since the retail chain seeks to analyze its expantion and the performance of currently stores portfolio.
+    
+* ### [All in one Place](https://github.com/kaotcs/p005-allinoneplace)
+
+    Clustering the database to discover a profile of customers which have a good revenue in the store.
     
 * ### Nestlé Data Challenge - Which cities Nestlé should expand "Vem de Bolo" platform?
 
@@ -44,8 +48,4 @@ Since then, I have been studding data science and classic machine learning algor
 
     Analyzes and ranking of potentials customers which can be interested to vehicle insurance. This cross sell project seeks to predict which customer is intended to contract this additional insurance, since they already know the health insurance product. The main goal is contact most of interested client existencing in company Data Base.
 
-* ### All in one Place - In Development
-
-    Clustering the database to discover a profile of customers which have a good revenue in the store.
-
-UPDATED: 14/12/21
+UPDATED: 18/01/22
