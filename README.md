@@ -39,7 +39,7 @@ Since then, I have been studding data science and classic machine learning algor
 
     Clustering the database to discover a profile of customers which have a good revenue in the store.
     
-* ### Nestlé Data Challenge - Which cities Nestlé should expand "Vem de Bolo" platform?
+* ### [Nestlé Data Challenge - Which cities Nestlé should expand "Vem de Bolo" platform?](https://github.com/kaotcs/p000-nestlechallenge)
 
     Discover potential cities in Brazil where the website "Vem de Bolo" can create new branches. In this project, it was possible to rank 380 cities (between 5000 cities) in Brazil with common features such as family and workers wage, total of entrepreneur close to point of interest, the growth-rate of city and how develop is the city industrial sectors.
     This project was elected one of the finalist and won in the 4th place in this data competition.
@@ -48,4 +48,4 @@ Since then, I have been studding data science and classic machine learning algor
 
     Analyzes and ranking of potentials customers which can be interested to vehicle insurance. This cross sell project seeks to predict which customer is intended to contract this additional insurance, since they already know the health insurance product. The main goal is contact most of interested client existencing in company Data Base.
 
-UPDATED: 18/01/22
+UPDATED: 19/01/22
