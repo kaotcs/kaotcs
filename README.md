@@ -48,6 +48,10 @@ Since then, I have been studding data science and classic machine learning algor
 
     In this challenge, it was proposed to create a project to predict the productity (kg/ha) of soy bean for Paraná state in Brazil for the next 3 years. It was used climatological data and the previous productity between 2003 to 2017. The competition was held by Itau and UFPR where 35 teams were created. In the final ranking, this project was ranked at top 10 classified by MAE metric.
 
+* ### KAGGLE | ML OLYMPIAD - In Development [link](https://www.kaggle.com/c/qualityeducation/overview)
+
+    Predict the scores of National Exam of Education (ENEM) in Brazil using the previous edition tests.
+
 * ### Health Insurance Cross Sell - In Development
 
     Analyzes and ranking of potentials customers which can be interested to vehicle insurance. This cross sell project seeks to predict which customer is intended to contract this additional insurance, since they already know the health insurance product. The main goal is contact most of interested client existencing in company Data Base.
